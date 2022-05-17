@@ -1,0 +1,19 @@
+.red-square{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.line{
+    background-color: white;
+    position: absolute;
+    margin-top: 12.5px;
+    height: 75px;
+    width: 20px;
+    margin-left: 40px;
+    display: block;
+}
+
+.horizontal{
+    transform: rotate(90deg);
+}
