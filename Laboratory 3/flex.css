@@ -1,0 +1,48 @@
+* {
+	margin: 0px;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	font-size: xx-large;
+	height: 100%;
+}
+
+.container {
+	height: 100%;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.first {
+	display: flex;
+	height: 33.33%;
+	width: 100%;
+}
+
+.text_left {
+	background-color: blue;
+	height: 100%;
+	width: 50%;
+}
+
+.text_right {
+	background-color: violet; 
+	height: 100%;
+	width: 50%;
+}
+
+.second {
+	background-color: red;
+	height: 33.33%;
+	width: 100%;
+}
+
+.third {
+	background-color: green;
+	height: 33.33%;
+	width: 100%;
+}
